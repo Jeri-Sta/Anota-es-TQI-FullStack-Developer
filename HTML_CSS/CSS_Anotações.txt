@@ -17,3 +17,44 @@ Font-style: italic;
 Padding = espaçamento entre conteúdo e borda.
 Border:
 margin: espaçamento entre elementos.
+=================================================================
+LADOS
+Padding-top
+Padding-right
+Padding-botton
+Padding-left
+============================================================
+FUNDO
+background-color: green ou #03819203;
+=========================================================
+BORDA
+Largura: pixels, centímetros, milímetros
+Cor: blue, #0000ff
+Estilo> sólida (solid), pontilhada (dotted), tracejada (dashed)....
+
+Pode juntar características.
+border-top-color
+border-top-style
+
+
+border-radius: 50% - transforma em círuclo
+==========================================================================
+FONTE
+font-family: Verdana;
+font-size: 10px;
+font-style: italic;
+font-weight: bold;
+text-transform: uppercase, lowercase, capitalize;
+text-decoration: underline, overline, line-through
+=========================================================================
+LISTA
+
+list-style-type: squaze, upper-roman, *\1f440*
+list-style-image: url("imagem")
+====================================================================
+DIMENSÃO E ALINHAMENTO
+
+width - largura
+margin: auto
+max-width
+text-allign: center,right,left,justify
