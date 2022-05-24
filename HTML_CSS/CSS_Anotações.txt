@@ -1,0 +1,19 @@
+Na tag HEAD do arquivo HTML é necessário linkar o arquivo .css
+
+<link rel="stylesheet" href="link do arquivo">
+===============================================================================
+# significa o ID, que é declarado no HTML. Ex: <h1 ID="Teste">.
+O ID só pode ter um por página. Essa declaração será referenciada no CSS.
+
+. significa a class, que é declarada no HTML. Ex: <h2 class="Testando">.
+Pode ter mais de uma classe por paágina.
+=======================================================================
+#Teste, .Testando {
+color: green;
+Font-size: 16px;
+Font-style: italic;
+}
+=========================================================================
+Padding = espaçamento entre conteúdo e borda.
+Border:
+margin: espaçamento entre elementos.

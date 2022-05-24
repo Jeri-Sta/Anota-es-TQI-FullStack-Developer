@@ -1,0 +1,18 @@
+<p> = parágrafos Textos mais densos.
+
+<a>Link</a>
+<a href="site">Site</a> = apontar para um link
+<a target="_blank">Link</a> = como esse link será aberto. Irá abrir uma nova aba.
+<a href="site"target="_blank">Descrição</a>
+==========================================================
+Imagens:
+
+<img scr="img/avatar.jpg"> = traz a imagem através do caminho no computador ou no próprio site.
+<img alt="Foto de Lucas Vilaboim"> = descrição da imagem
+<img scr="img/avatar.jpg" alt="Foto de Lucas Vilaboim">
+================================================================
+Listas
+
+<ul> = ordem das listas não é importante
+<ol> = ordem importante
+<li> = utilizado dentro das anteriores
